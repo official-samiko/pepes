@@ -1,0 +1,848 @@
+Uri: https://chillpepe.net/
+File Name: C:\Downloaded Web Sites\chillpepe.net\index.htm
+Content Type: text/html
+
+Uri: https://chillpepe.net/comments/feed/
+File Name: C:\Downloaded Web Sites\chillpepe.net\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://chillpepe.net/feed/
+File Name: C:\Downloaded Web Sites\chillpepe.net\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\conditionals\shapes.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInDown.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInRight.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/animations/styles/rubberBand.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\animations\styles\rubberBand.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/animations/styles/slideInDown.min.css?ver=3.25.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\animations\styles\slideInDown.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.32.0
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.32.0
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.32.0
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.32.0
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.32.0
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.32.0
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/elementor/assets/mask-shapes/circle.svg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\elementor\assets\mask-shapes\circle.svg
+Content Type: image/svg+xml
+
+Uri: https://chillpepe.net/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.0.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.0.10
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/fluentform/assets/css/fluent-forms-elementor-widget.css?ver=5.2.6
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\fluentform\assets\css\fluent-forms-elementor-widget.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/fluentform/assets/css/fluent-forms-public.css?ver=5.2.6
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\fluentform\assets\css\fluent-forms-public.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/fluentform/assets/css/fluentform-public-default.css?ver=5.2.6
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\fluentform\assets\css\fluentform-public-default.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/fluentform/assets/js/form-submission.js?ver=5.2.6
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\fluentform\assets\js\form-submission.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/gtranslate/js/flags.js?ver=6.7.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\gtranslate\js\flags.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/html5-audio-player/assets/css/player.min.css?ver=1734613233
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\html5-audio-player\assets\css\player.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/html5-audio-player/assets/css/style.css?ver=1734613233
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\html5-audio-player\assets\css\style.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/html5-audio-player/dist/3d6c2b1bd3807fb649f9.svg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\html5-audio-player\dist\3d6c2b1bd3807fb649f9.svg
+Content Type: image/svg+xml
+
+Uri: https://chillpepe.net/wp-content/plugins/html5-audio-player/dist/e9733ae84459b363a6ac.svg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\html5-audio-player\dist\e9733ae84459b363a6ac.svg
+Content Type: image/svg+xml
+
+Uri: https://chillpepe.net/wp-content/plugins/html5-audio-player/dist/fb16ee5f9cd5708b1d95.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\html5-audio-player\dist\fb16ee5f9cd5708b1d95.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/html5-audio-player/dist/player.css?ver=1734613233
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\html5-audio-player\dist\player.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/html5-audio-player/dist/player.js?ver=1734613233
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\html5-audio-player\dist\player.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/html5-audio-player/js/player.js?ver=1734613233
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\html5-audio-player\js\player.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/marquee-running-text/assets/css/mrtext-main.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\marquee-running-text\assets\css\mrtext-main.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/omnisend/styles/site-styles.css?1734613233&ver=1.5.5
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\omnisend\styles\site-styles.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/loader.gif
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/flipster.min.css?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\flipster.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/prettyphoto.min.css?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\prettyphoto.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/anime.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\anime.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/flipster.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\flipster.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/headroom.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\headroom.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/jquery-countdown.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\jquery-countdown.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/jquery-mousewheel.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\jquery-mousewheel.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\lottie.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-floating-effects.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-floating-effects.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-nav-menu.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-nav-menu.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/prettyPhoto.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\prettyPhoto.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/TweenMax.min.js?ver=4.10.65
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\TweenMax.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.7.1004
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/loading-animations.min.css?ver=1.7.1004
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\css\lib\animations\loading-animations.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.7.1004
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\css\lib\animations\text-animations.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/wpr-animations.min.css?ver=1.7.1004
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\css\lib\animations\wpr-animations.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/css/lib/aos/aos.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\css\lib\aos\aos.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1004
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/js/lib/aos/aos.min.js
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\js\lib\aos\aos.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/js/lib/infinite-scroll/infinite-scroll.min.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\js\lib\infinite-scroll\infinite-scroll.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\js\lib\jarallax\jarallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\js\lib\parallax\parallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\js\lib\particles\particles.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.7.1004
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\royal-elementor-addons\assets\js\modal-popups.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.11.4
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\plugins\wp-statistics\assets\js\tracker.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/themes/hello-elementor/style.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/30b4e950-g8112.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\30b4e950-g8112.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/33442eed-1.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\33442eed-1.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/3d5956e2a.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\3d5956e2a.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/5e688d25-2.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\5e688d25-2.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/69032982-ellipse-2.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\69032982-ellipse-2.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/6ceb6a1a-3.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\6ceb6a1a-3.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/ad05440f-group-60-300x249.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\ad05440f-group-60-300x249.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/ad05440f-group-60.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\ad05440f-group-60.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/af253b11-hero-cloud.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\af253b11-hero-cloud.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe100.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe100.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe600-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe600-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe600-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe600-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe600-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe600-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe600-1.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe600-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe600-100x100.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe600-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe600-150x150.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe600-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe600-300x300.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe600-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe600.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe600.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe6003.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe6003.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe6004-100x100.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe6004-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe6004-150x150.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe6004-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe6004-300x300.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe6004-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepe6004.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepe6004.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/chillpepem.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\chillpepem.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/d7af17c8-group-158-100x100.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\d7af17c8-group-158-100x100.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/d7af17c8-group-158-150x150.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\d7af17c8-group-158-150x150.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/d7af17c8-group-158-300x300.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\d7af17c8-group-158-300x300.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/d7af17c8-group-158-768x768.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\d7af17c8-group-158-768x768.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/d7af17c8-group-158.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\d7af17c8-group-158.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/geckoterminal-1024x265.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\geckoterminal-1024x265.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/geckoterminal-300x78.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\geckoterminal-300x78.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/geckoterminal-768x199.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\geckoterminal-768x199.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/geckoterminal.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\geckoterminal.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/p_33782553_919.mp3
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\p_33782553_919.mp3
+Content Type: audio/mpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/raydium.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\raydium.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/surf.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\surf.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/11/trump.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\11\trump.jpg
+Content Type: image/jpeg
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/12/Crypto-300x57.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\12\Crypto-300x57.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/2024/12/Crypto.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\2024\12\Crypto.png
+Content Type: image/png
+
+Uri: https://chillpepe.net/wp-content/uploads/elementor/css/post-11.css?ver=1734358633
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\elementor\css\post-11.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/uploads/elementor/css/post-13.css?ver=1734358633
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\elementor\css\post-13.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/uploads/elementor/css/post-27.css?ver=1734358633
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\elementor\css\post-27.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/uploads/elementor/css/post-31.css?ver=1734358634
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\elementor\css\post-31.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/uploads/elementor/css/post-8.css?ver=1734358633
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\elementor\css\post-8.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/uploads/essential-addons-elementor/eael-13.css?ver=1734357519
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\essential-addons-elementor\eael-13.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/uploads/essential-addons-elementor/eael-13.js?ver=1734357519
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\essential-addons-elementor\eael-13.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/uploads/essential-addons-elementor/eael-31.css?ver=1734357519
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\essential-addons-elementor\eael-31.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/uploads/essential-addons-elementor/eael-31.js?ver=1734357519
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\essential-addons-elementor\eael-31.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-content/uploads/premium-addons-elementor/pa-frontend-ec6f3d92f.min.css?ver=1734613233
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\premium-addons-elementor\pa-frontend-ec6f3d92f.min.css
+Content Type: text/css
+
+Uri: https://chillpepe.net/wp-content/uploads/premium-addons-elementor/pa-frontend-ec6f3d92f.min.js?ver=1734613233
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-content\uploads\premium-addons-elementor\pa-frontend-ec6f3d92f.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://chillpepe.net/wp-json/
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://chillpepe.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fchillpepe.net%2F
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://chillpepe.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fchillpepe.net%2F&format=xml
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://chillpepe.net/wp-json/wp/v2/pages/31
+File Name: C:\Downloaded Web Sites\chillpepe.net\wp-json\wp\v2\pages\31
+Content Type: application/json
+
+Uri: https://chillpepe.net/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\chillpepe.net\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.1
+File Name: C:\Downloaded Web Sites\chillpepe.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\chillpepe.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://michael-zhigulin.github.io/mz-codepen-projects/Material Design UI Audio Player/tim_minchin_piano.jpg
+File Name: C:\Downloaded Web Sites\chillpepe.net\mz-codepen-projects\Material Design UI Audio Player\tim_minchin_piano.jpg
+Content Type: image/jpeg
+
+Uri: https://static-bundles.visme.co/visme-embed.js
+File Name: C:\Downloaded Web Sites\chillpepe.net\visme-embed.js
+Content Type: application/javascript
+
+Uri: https://www.gopluslabs.io/assets/icon_verified-f9b4b9ff.png
+File Name: C:\Downloaded Web Sites\chillpepe.net\assets\icon_verified-f9b4b9ff.png
+Content Type: image/png
+
